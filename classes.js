@@ -36,4 +36,4 @@ console.log(people)
 //             age: this.age,
 //         }
 //     }
-}
+// }
